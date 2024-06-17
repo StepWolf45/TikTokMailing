@@ -1,2 +1,2 @@
 # TikTokMailing
-Script to make an adadvertising comments
+Script to make an advertising comments
